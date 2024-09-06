@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "273856763896",
+    "project_id": "attensync-28e6d",
+    "storage_bucket": "attensync-28e6d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273856763896:android:2d6e9961b20d93848c280d",
+        "android_client_info": {
+          "package_name": "com.example.attensync"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-sxtD5AW1-EqKxghsxr3Fl1xxRvJ8HKk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
